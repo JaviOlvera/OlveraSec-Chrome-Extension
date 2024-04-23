@@ -1,0 +1,14 @@
+EN EL ARCHIVO Secure Preferences (C:\Users\javio\AppData\Local\Google\Chrome\User Data\Default), se almacenan los datos de todas las extensiones, si
+se lee esto con c++ y se cambia a 1 el valor "state", SIEMPRE estará habilitada la extensión.
+
+
+"mbonpjpebeijhjikkjaeafdalmdodhid":{"active_permissions":{"api":["storage","tabs"],"explicit_host":[],"manifest_permissions":[],
+"scriptable_host":[]},"commands":{},"content_settings":[],"creation_flags":38,"first_install_time":"13357505326490360","from_webstore":false,
+"granted_permissions":{"api":["storage","tabs"],"explicit_host":[],"manifest_permissions":[],"scriptable_host":[]},"incognito_content_settings":[],
+"incognito_preferences":{},"last_update_time":"13357505375587227","location":4,"newAllowFileAccess":true,"
+path":"C:\\Users\\javio\\Desktop\\chrome extension","preferences":{},"regular_only_preferences":{},"service_worker_registration_info":{"version":"1.0.0"},
+"serviceworkerevents":[],"state":1,"was_installed_by_default":false,"was_installed_by_oem":false,"withholding_permissions":false},
+
+"mbonpjpebeijhjikkjaeafdalmdodhid":"A844B411E8B076DB259A2B2FB7064F89626CB58A7EAB076ABAEE1D477315F846",
+
+
